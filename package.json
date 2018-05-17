@@ -1,5 +1,5 @@
 {
-  "name": "http-aws-es",
+  "name": "@cricut/http-aws-es",
   "version": "4.0.1",
   "description": "Use the elasticsearch-js client with Amazon ES",
   "repository": "https://github.com/TheDeveloper/http-aws-es",
