@@ -27,7 +27,7 @@
     "minimist": "^1.2.0",
     "mocha": "^5.1.1",
     "nyc": "^11.8.0",
-    "puppeteer": "^1.4.0",
+    "puppeteer": "^1.13.0",
     "sinon": "^5.0.7"
   },
   "scripts": {
