@@ -18,7 +18,7 @@
   ],
   "main": "connector.js",
   "devDependencies": {
-    "aws-sdk": "^2.241.1",
+    "aws-sdk": "^2.814.0",
     "browserify": "^16.2.2",
     "chai": "^4.1.2",
     "elasticsearch": "^15.0.0",
